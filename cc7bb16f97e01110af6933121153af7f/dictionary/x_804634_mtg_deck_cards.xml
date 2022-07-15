@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Cards" max_length="40" name="x_804634_mtg_deck_cards" type="collection">
+        <element label="Name" max_length="40" name="name" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn_param_defs">
+    <sys_rest_message_fn_param_defs action="DELETE">
+        <name>cards</name>
+        <order>100</order>
+        <rest_message_function display_value="Default GET">5f50f34c97701110af6933121153afac</rest_message_function>
+        <sys_class_name>sys_rest_message_fn_param_defs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-15 16:17:40</sys_created_on>
+        <sys_id>6b81f74897701110af6933121153af63</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>cards</sys_name>
+        <sys_package display_value="MTG Deck Tracker" source="x_804634_mtg_deck">cc7bb16f97e01110af6933121153af7f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MTG Deck Tracker">cc7bb16f97e01110af6933121153af7f</sys_scope>
+        <sys_update_name>sys_rest_message_fn_param_defs_6b81f74897701110af6933121153af63</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-15 16:17:40</sys_updated_on>
+        <value>/cards</value>
+    </sys_rest_message_fn_param_defs>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="MTG Deck Tracker">cc7bb16f97e01110af6933121153af7f</application>
+        <file_path/>
+        <instance_id>eff0c4dddbba78104d2bac44d49619f2</instance_id>
+        <instance_name>dev120073</instance_name>
+        <name>sys_rest_message_fn_param_defs_6b81f74897701110af6933121153af63</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn_param_defs"><sys_rest_message_fn_param_defs action="INSERT_OR_UPDATE"><name>cards</name><order>100</order><rest_message_function display_value="Default GET">5f50f34c97701110af6933121153afac</rest_message_function><sys_class_name>sys_rest_message_fn_param_defs</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-07-15 16:17:40</sys_created_on><sys_id>6b81f74897701110af6933121153af63</sys_id><sys_mod_count>0</sys_mod_count><sys_name>cards</sys_name><sys_package display_value="MTG Deck Tracker" source="x_804634_mtg_deck">cc7bb16f97e01110af6933121153af7f</sys_package><sys_policy/><sys_scope display_value="MTG Deck Tracker">cc7bb16f97e01110af6933121153af7f</sys_scope><sys_update_name>sys_rest_message_fn_param_defs_6b81f74897701110af6933121153af63</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-07-15 16:17:40</sys_updated_on><value>/cards</value></sys_rest_message_fn_param_defs></record_update>]]></payload>
+        <payload_hash>1338133836</payload_hash>
+        <record_name>cards</record_name>
+        <reverted_from/>
+        <source>f835c6a797241110af6933121153af8e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-15 16:17:40</sys_created_on>
+        <sys_id>b9c1378c97701110af6933121153afa3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18202a6c72f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-15 16:17:40</sys_updated_on>
+        <type>HTTP Query Parameters</type>
+        <update_guid>f1c1378cf0701110bce280ce05e32da3</update_guid>
+        <update_guid_history>f1c1378cf0701110bce280ce05e32da3:1338133836</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-15 16:17:58</sys_created_on>
+        <sys_db_object display_value="" name="sys_rest_message_fn_param_defs">sys_rest_message_fn_param_defs</sys_db_object>
+        <sys_id>739758f0d0c54d2a965d2b22fd0cd664</sys_id>
+        <sys_metadata>6b81f74897701110af6933121153af63</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>cards</sys_name>
+        <sys_package display_value="MTG Deck Tracker" source="x_804634_mtg_deck">cc7bb16f97e01110af6933121153af7f</sys_package>
+        <sys_parent display_value="Default GET">5f50f34c97701110af6933121153afac</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="MTG Deck Tracker">cc7bb16f97e01110af6933121153af7f</sys_scope>
+        <sys_scope_delete display_value="">32e5c5e0ee424484927aa7d4d0dc27a9</sys_scope_delete>
+        <sys_update_name>sys_rest_message_fn_param_defs_6b81f74897701110af6933121153af63</sys_update_name>
+        <sys_update_version display_value="sys_rest_message_fn_param_defs_6b81f74897701110af6933121153af63">b9c1378c97701110af6933121153afa3</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-15 16:17:58</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
