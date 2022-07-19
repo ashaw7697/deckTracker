@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="modern_legality" table="x_804634_mtg_deck_cards" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>modern_legality</element>
+            <name>x_804634_mtg_deck_cards</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-18 20:07:18</sys_created_on>
+            <sys_id>b613405597341110af6933121153af46</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>modern_legality</sys_name>
+            <sys_package display_value="MTG Deck Tracker" source="x_804634_mtg_deck">cc7bb16f97e01110af6933121153af7f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="MTG Deck Tracker">cc7bb16f97e01110af6933121153af7f</sys_scope>
+            <sys_update_name>sys_choice_x_804634_mtg_deck_cards_modern_legality</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-18 20:07:18</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>modern_legality</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Legal</label>
+            <language>en</language>
+            <name>x_804634_mtg_deck_cards</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-18 20:07:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7213405597341110af6933121153af46</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-18 20:07:18</sys_updated_on>
+            <value>legal</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>modern_legality</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Not Legal</label>
+            <language>en</language>
+            <name>x_804634_mtg_deck_cards</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-18 20:07:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fa13405597341110af6933121153af47</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-18 20:07:18</sys_updated_on>
+            <value>not_legal</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>modern_legality</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Banned</label>
+            <language>en</language>
+            <name>x_804634_mtg_deck_cards</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-18 20:07:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7a13405597341110af6933121153af48</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-18 20:07:18</sys_updated_on>
+            <value>banned</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

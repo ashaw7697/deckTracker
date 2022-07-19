@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <ignore_cache>false</ignore_cache>
+        <is_private>false</is_private>
+        <name>glide.db.impex.json.max.file.size.mb</name>
+        <read_roles/>
+        <suffix/>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-18 15:43:30</sys_created_on>
+        <sys_id>bab683c197301110af6933121153afb5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>glide.db.impex.json.max.file.size.mb</sys_name>
+        <sys_package display_value="MTG Deck Tracker" source="x_804634_mtg_deck">cc7bb16f97e01110af6933121153af7f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MTG Deck Tracker">cc7bb16f97e01110af6933121153af7f</sys_scope>
+        <sys_update_name>sys_properties_bab683c197301110af6933121153afb5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-18 15:43:30</sys_updated_on>
+        <type>string</type>
+        <value>200</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=bab683c197301110af6933121153afb5"/>
+</record_update>

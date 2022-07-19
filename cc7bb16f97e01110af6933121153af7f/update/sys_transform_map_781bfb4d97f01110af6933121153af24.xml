@@ -4,7 +4,7 @@
         <copy_empty_fields>false</copy_empty_fields>
         <create_new_record_on_empty_coalesce_fields>false</create_new_record_on_empty_coalesce_fields>
         <enforce_mandatory_fields>No</enforce_mandatory_fields>
-        <name>Bulk Cards</name>
+        <name>Final Card tMap</name>
         <order>100</order>
         <run_business_rules>true</run_business_rules>
         <run_script>false</run_script>
@@ -16,16 +16,16 @@
         <source_table>x_804634_mtg_deck_mtg_cards</source_table>
         <sys_class_name>sys_transform_map</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2022-07-15 18:46:52</sys_created_on>
-        <sys_id>0bb3d45c97f01110af6933121153afbe</sys_id>
+        <sys_created_on>2022-07-18 19:34:38</sys_created_on>
+        <sys_id>781bfb4d97f01110af6933121153af24</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>Bulk Cards</sys_name>
+        <sys_name>Final Card tMap</sys_name>
         <sys_package display_value="MTG Deck Tracker" source="x_804634_mtg_deck">cc7bb16f97e01110af6933121153af7f</sys_package>
         <sys_policy/>
         <sys_scope display_value="MTG Deck Tracker">cc7bb16f97e01110af6933121153af7f</sys_scope>
-        <sys_update_name>sys_transform_map_0bb3d45c97f01110af6933121153afbe</sys_update_name>
+        <sys_update_name>sys_transform_map_781bfb4d97f01110af6933121153af24</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-07-15 18:46:52</sys_updated_on>
+        <sys_updated_on>2022-07-18 19:34:38</sys_updated_on>
         <target_table>x_804634_mtg_deck_cards</target_table>
     </sys_transform_map>
 </record_update>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="5de2324d97301110af6933121153af6d" sys_domain="global" table="x_804634_mtg_deck_cards" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-18 14:16:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>99e2324d97301110af6933121153af71</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_804634_mtg_deck_cards" name="x_804634_mtg_deck_cards" sys_domain="global" view="Default view">5de2324d97301110af6933121153af6d</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_804634_mtg_deck_cards" sys_domain="global" view="Default view">0d23674097701110af6933121153afdb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-18 14:16:51</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-18 14:16:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>95e2324d97301110af6933121153af72</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_804634_mtg_deck_cards" name="x_804634_mtg_deck_cards" sys_domain="global" view="Default view">5de2324d97301110af6933121153af6d</sys_ui_form>
+            <sys_ui_section caption="Legality" display_value="Legality" name="x_804634_mtg_deck_cards" sys_domain="global" view="Default view">95e2324d97301110af6933121153af20</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-18 14:16:51</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_804634_mtg_deck_cards</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-18 14:16:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5de2324d97301110af6933121153af6d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_804634_mtg_deck_cards</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="MTG Deck Tracker" source="x_804634_mtg_deck">cc7bb16f97e01110af6933121153af7f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="MTG Deck Tracker">cc7bb16f97e01110af6933121153af7f</sys_scope>
+            <sys_update_name>sys_ui_form_sections_5de2324d97301110af6933121153af6d</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-18 14:16:51</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
